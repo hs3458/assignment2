@@ -13,7 +13,7 @@
 
 
 ## 2. Data Description
-[Lungs](./visuals/lungs.png)
+![Lungs](./visuals/lungs.png)
 
 ## 3. CNN Models
 We created three CNN models, with varying architectures. The loss and accuracy plots for each can be seen below. We referenced papers doing similar work with image classification in order to build these custom CNNs, while adhering to the 12 layer minimum. The first CNN model is separated into convolution blocks of two layers each, with two blocks or 32 filters (4 total layers), two of 128 filters, and two of 512 filters, each using relu activation and separated by a max pooling layer. The goal was to create a basic model to build off of, with the filter number increasing, while also not needing too much computational power. The Max pooling layers allow for the model to reduce complexity, then end using soft max to classify the image.
