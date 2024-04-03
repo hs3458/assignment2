@@ -18,32 +18,17 @@
 ## 3. CNN Models
 
 |Model|Summary Plot|
->         |:-:|:-:|
->         |First CNN model|![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn1.png)
->         |Second CNN model|![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn2.png)
->         |Third CNN model|![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn_best.png)
-
-
-First CNN model:
-
-![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn1.png)
-
-Second CNN model:
-
-![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn2.png)
-
-Third CNN model:
-
-![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn_best.png)
+|:-:|:-:|
+|First CNN|![cnn1](./visuals/cnn1.png)
+|Second CNN|![cnn2](./visuals/cnn2.png)
+|Third CNN|![cnn_best](./visuals/cnn_best.png)
 
 ## 4. Transfer Learning Models
-First transfer learning model, ResNet50:
 
-![image](https://github.com/hs3458/assignment2/blob/main/visuals/resnet.png)
-
-Second transfer learning model, InceptionV3:
-
-![image](https://github.com/hs3458/assignment2/blob/main/visuals/inv.png)
+|Model|Summary Plot|
+|:-:|:-:|
+|ResNet50|![resnet](./visuals/cnn1.png)
+|InceptionV3|![inv](./visuals/cnn2.png)
 
 ## 5. Comparing Results
 
