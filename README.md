@@ -16,10 +16,21 @@
 
 
 ## 3. CNN Models
+First CNN model:
 ![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn1.png)
 
-## 4. Transfer Learning Models
+Second CNN model:
+![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn2.png)
 
+Third CNN model:
+![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn_best.png)
+
+## 4. Transfer Learning Models
+First transfer learning model, ResNet50:
+![image](https://github.com/hs3458/assignment2/blob/main/visuals/resnet.png)
+
+Second transfer learning model, InceptionV3:
+![image](https://github.com/hs3458/assignment2/blob/main/visuals/inv.png)
 
 ## 5. Comparing Results
 
