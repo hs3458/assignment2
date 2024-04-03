@@ -37,4 +37,6 @@
 
 
 ## 7. References
-Dataset: M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz, “Can AI help in screening Viral and COVID-19 pneumonia?” arXiv preprint, 29 March 2020. https://arxiv.org/abs/2003.13145. 
+Dataset: M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz, “Can AI help in screening Viral and COVID-19 pneumonia?” arXiv preprint, 29 March 2020. [link](https://arxiv.org/abs/2003.13145). 
+
+CNN Model: Dumakude, A., Ezugwu, A.E. Automated COVID-19 detection with convolutional neural networks. Sci Rep 13, 10607 (2023). [link](https://doi.org/10.1038/s41598-023-37743-4).
