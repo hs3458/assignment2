@@ -16,7 +16,7 @@
 
 
 ## 3. CNN Models
-
+![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn1.png)
 
 ## 4. Transfer Learning Models
 
