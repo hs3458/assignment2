@@ -16,6 +16,14 @@
 
 
 ## 3. CNN Models
+
+|Model|Summary Plot|
+>         |:-:|:-:|
+>         |First CNN model|![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn1.png)
+>         |Second CNN model|![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn2.png)
+>         |Third CNN model|![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn_best.png)
+
+
 First CNN model:
 
 ![image](https://github.com/hs3458/assignment2/blob/main/visuals/cnn1.png)
