@@ -11,11 +11,11 @@ model_path = '' # chosen model
 # Preprocess images
 preprocessed_images = preprocessor(image_paths)
 datagen = data_generator()
-augmented_images = (preprocessed_images, datagen)
+final_images = (preprocessed_images, datagen)
 
 # Make predictions
-predictions = predict_image_categories(augmented_images, model_path)
+predictions = predict_image_categories(final_images, model_path)
 
 # Display predictions
-for image_path, prediction in zip(image_paths, predictions):
+for image_path, prediction in zip(final_images, predictions):
     print(f'Image: {image_path}, Prediction: {prediction}')
